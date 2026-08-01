@@ -1,15 +1,15 @@
-# ¡Hola! Soy [Tu Nombre] 👋
+# ¡Hola! Soy Pedro Ovando 👋
 
-### 🚀 Desarrollador de Software | Especializado en Backend & Desarrollo Web
+### Ingeniero en sistemas computacionales | Especializado en Backend & Desarrollo Web
 
-Soy estudiante de **Ingeniería en Sistemas Computacionales**, enfocado en el desarrollo de soluciones de software escalables, arquitectura backend y gestión de entorno e infraestructura virtualizada. Me apasiona construir sistemas eficientes mediante código limpio y buenas prácticas.
+Soy estudiante de **Ingeniería en Sistemas Computacionales**, enfocado en el desarrollo de soluciones de software escalables, arquitectura backend y gestión de entorno e infraestructura virtualizada, Me apasiona construir sistemas eficientes mediante código limpio y buenas prácticas.
 
 ---
 
-### ⚡ Sobre mí
+### Sobre mí
 
 - 🎓 Cursando los últimos semestres de **Ingeniería en Sistemas Computacionales**.
-- 💻 Enfocado principalmente en el desarrollo **Backend (Java / Spring Boot, PHP, Python)** y bases de datos relacionales.
+- 💻 Enfocado principalmente en el desarrollo **Backend (Java / Spring Boot, PHP)** y bases de datos relacionales.
 - 🛠️ Experiencia configurando entornos virtualizados, contenedores con **Docker** y despliegues en **Linux / WSL2**.
 - 📚 En constante aprendizaje sobre arquitectura de software, microservicios y mejores prácticas en **Git / GitHub**.
 - 🎯 **Meta actual:** Colaborar en proyectos de desarrollo de software de alto impacto y escalar profesionalmente como Backend Developer.
@@ -18,12 +18,9 @@ Soy estudiante de **Ingeniería en Sistemas Computacionales**, enfocado en el de
 
 ### 💻 Tecnologías y Herramientas
 
-| Categoría | Tecnologías / Herramientas |
-| :--- | :--- |
-| **Lenguajes** | `Java` `JavaScript` `PHP` `Python` `SQL` `HTML5` `CSS3` |
-| **Backend & Web** | `Spring Boot` `Next.js` `React` `Tailwind CSS` |
-| **Bases de Datos** | `MySQL` |
-| **Infraestructura & Tools** | `Git` `GitHub` `Docker` `Proxmox VE` `VMware` `WSL2` |
+|### 💻 Tecnologías y Herramientas
+
+[![Mis habilidades](https://skillicons.dev/icons?i=java,spring,py,php,js,react,nextjs,tailwind,mysql,docker,linux,git,github,vscode)](https://skillicons.dev)
 
 ---
 
