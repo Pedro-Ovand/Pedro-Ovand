@@ -20,24 +20,3 @@ Soy estudiante de Ingeniería en Sistemas Computacionales, enfocado en el desarr
 
 [![Mis habilidades](https://skillicons.dev/icons?i=java,spring,php,js,ts,react,nextjs,tailwind,mysql,docker,linux,git,github)](https://skillicons.dev)
 
----
-
-### 🚀 Proyectos Destacados
-
-#### 📌 [Nombre de tu Proyecto Principal](https://github.com/tu-usuario/nombre-del-repo)
-> *Descripción corta de 1 o 2 líneas explicando qué problema resuelve el proyecto o para qué sirve.*
-- **Tecnologías:** `Java` • `Spring Boot` • `MySQL` • `Docker`
-- **Link:** [Ver repositorio](https://github.com/tu-usuario/nombre-del-repo)
-
-#### 📌 [Nombre de segundo proyecto clave](https://github.com/tu-usuario/nombre-del-repo)
-> *Descripción concisa resaltando tu aporte en el backend o arquitectura.*
-- **Tecnologías:** `PHP` • `JavaScript` • `MySQL` • `Tailwind CSS`
-- **Link:** [Ver repositorio](https://github.com/tu-usuario/nombre-del-repo)
-
----
-
-### 📫 Contacto y Redes
-
-- 💼 **LinkedIn:** [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)
-- 📧 **Correo personal:** `tu_correo_personal@ejemplo.com`
-- 📄 **Portafolio / Web:** [tu-sitio-web.com](https://tu-sitio-web.com)
