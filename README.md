@@ -20,7 +20,7 @@ Soy estudiante de **Ingeniería en Sistemas Computacionales**, enfocado en el de
 
 |### 💻 Tecnologías y Herramientas
 
-[![Mis habilidades](https://skillicons.dev/icons?i=java,spring,py,php,js,react,nextjs,tailwind,mysql,docker,linux,git,github,vscode)](https://skillicons.dev)
+[![Mis habilidades](https://skillicons.dev/icons?i=java,spring,php,js,ts,react,nextjs,tailwind,mysql,docker,linux,git,github,vscode)](https://skillicons.dev)
 
 ---
 
