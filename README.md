@@ -1,4 +1,4 @@
-# ¡Hola! Soy Pedro Ovando 👋
+# ¡Hola! Soy Pedro Ovando
 
 ### Ingeniero en sistemas computacionales | Especializado en Backend & Desarrollo Web
 
@@ -15,9 +15,8 @@ Soy estudiante de Ingeniería en Sistemas Computacionales, enfocado en el desarr
 - <img src="https://api.iconify.design/lucide/target.svg?color=%2310b981" width="18" height="18" /> **Meta actual:** Desarrollar y lanzar mi propio producto **SaaS**.
 ---
 
-### 💻 Tecnologías y Herramientas
+### Tecnologías y Herramientas
 
-|### 💻 Tecnologías y Herramientas
 
 [![Mis habilidades](https://skillicons.dev/icons?i=java,spring,php,js,ts,react,nextjs,tailwind,mysql,docker,linux,git,github)](https://skillicons.dev)
 
