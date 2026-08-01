@@ -6,14 +6,6 @@ Soy estudiante de Ingeniería en Sistemas Computacionales, enfocado en el desarr
 
 ---
 
-### ⚡ Sobre mí
-
-- 🎓 Cursando el último año de **Ingeniería en Sistemas Computacionales**.
-- 💻 Enfocado en el desarrollo de **plataformas web y aplicaciones** usando tecnologías modernas (React, TypeScript, PHP, JavaScript y MySQL).
-- 🛠️ Experiencia configurando entornos virtualizados, contenedores con **Docker** y despliegues en **Linux / WSL2**.
-- 📚 En constante aprendizaje sobre arquitectura de software, patrones de diseño y mejores prácticas en **Git / GitHub**.
-- 🎯 **Meta actual:** Desarrollar y lanzar mi propio producto **SaaS**, aplicando arquitectura sólida en plataformas web.
-
 ### Sobre mí
 
 - <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%2360a5fa" width="18" height="18" /> Cursando el último año de **Ingeniería en Sistemas Computacionales**.
