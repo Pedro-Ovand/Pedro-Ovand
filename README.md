@@ -2,17 +2,17 @@
 
 ### Ingeniero en sistemas computacionales | Especializado en Backend & Desarrollo Web
 
-Soy estudiante de **Ingeniería en Sistemas Computacionales**, enfocado en el desarrollo de soluciones de software escalables, arquitectura backend y gestión de entorno e infraestructura virtualizada, Me apasiona construir sistemas eficientes mediante código limpio y buenas prácticas.
+Soy estudiante de Ingeniería en Sistemas Computacionales, enfocado en el desarrollo backend y la gestión de infraestructura virtualizada, me apasiona construir sistemas eficientes mediante código limpio y buenas prácticas, mi objetivo actual es desarrollar mi propio producto SaaS, me considero una persona altamente perseverante y resolutiva, enfocada en encontrar soluciones efectivas ante cualquier desafío técnico.
 
 ---
 
-### Sobre mí
+### ⚡ Sobre mí
 
-- 🎓 Cursando los últimos semestres de **Ingeniería en Sistemas Computacionales**.
-- 💻 Enfocado principalmente en el desarrollo **Backend (Java / Spring Boot, PHP)** y bases de datos relacionales.
+- 🎓 Cursando el último año de **Ingeniería en Sistemas Computacionales**.
+- 💻 Enfocado en el desarrollo de **plataformas web y aplicaciones** usando tecnologías modernas (React, TypeScript, PHP, JavaScript y MySQL).
 - 🛠️ Experiencia configurando entornos virtualizados, contenedores con **Docker** y despliegues en **Linux / WSL2**.
-- 📚 En constante aprendizaje sobre arquitectura de software, microservicios y mejores prácticas en **Git / GitHub**.
-- 🎯 **Meta actual:** Colaborar en proyectos de desarrollo de software de alto impacto y escalar profesionalmente como Backend Developer.
+- 📚 En constante aprendizaje sobre arquitectura de software, patrones de diseño y mejores prácticas en **Git / GitHub**.
+- 🎯 **Meta actual:** Desarrollar y lanzar mi propio producto **SaaS**, aplicando arquitectura sólida en plataformas web.
 
 ---
 
