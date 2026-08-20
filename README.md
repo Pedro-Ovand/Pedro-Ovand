@@ -2,7 +2,7 @@
 
 ### Ingeniero en sistemas computacionales | Especializado en Backend & Desarrollo Web
 
-Soy estudiante de Ingeniería en Sistemas Computacionales, enfocado en el desarrollo backend y la gestión de infraestructura virtualizada, me apasiona construir sistemas eficientes mediante código limpio y buenas prácticas, me considero una persona altamente perseverante y resolutiva, enfocada en encontrar soluciones efectivas ante cualquier desafío técnico. 
+Soy estudiante de Ingeniería en Sistemas Computacionales, enfocado en el desarrollo backend y la gestión de infraestructura virtualizada, me apasiona construir sistemas eficientes mediante código limpio y buenas prácticas, me considero una persona altamente perseverante y resolutiva, enfocada en encontrar soluciones efectivas ante cualquier desafío técnico.
 
 ---
 
